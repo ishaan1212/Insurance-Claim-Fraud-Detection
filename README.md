@@ -61,3 +61,15 @@ This project focuses on detecting fraudulent insurance claims using advanced mac
 2. Required Python libraries:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm shap
+3. Jupytr Notebook or any IDE for running the python code
+
+### Steps to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ishaan1212/Insurance-Claim-Fraud-Detection.git
+2. Navigate to the project directory
+   ```bash
+   cd Insurance-Claim-Fraud-Detection
+3. Open the Jupyter Notebook and run the code cells in order to execute the project.
+
+
